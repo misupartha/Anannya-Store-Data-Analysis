@@ -1,2 +1,2 @@
 # Anannya-Store-Data-Analysis
-Anannya Store Data Analysis by Microsoft Excel
+This is a project on Anannya Store Data Analysis by Microsoft Excel
